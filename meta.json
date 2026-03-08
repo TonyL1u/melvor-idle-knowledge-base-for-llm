@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "updateTime": "2026-03-08",
+  "knowledge": {
+    "en": [],
+    "zh": {
+      "fishing": [
+        {
+          "title": "钓鱼技能（Fishing）核心参考指南",
+          "source": "zh/fishing/01.md"
+        }
+      ],
+      "summoning": [
+        {
+          "title": "召唤技能（Summoning）核心参考指南",
+          "source": "zh/summoning/01.md"
+        }
+      ]
+    }
+  }
+}
